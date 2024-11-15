@@ -1,7 +1,7 @@
 # Optimizing Conformal Prediction Sets for Pathological Image Classification
 
 
--  #### Venue & Year: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025
+
 
 ## Abstract
 
