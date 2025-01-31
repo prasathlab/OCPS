@@ -1,7 +1,7 @@
 # Optimizing Conformal Prediction Sets for Pathological Image Classification
 
 - #### Authors</ins>: **Shubham Ojha***, **Aditya Narendra***, Abhay Kshirsagar, Shyam Sundar Debsarkar \& Surya Prasath 
-- #### Venue : Under Preparation
+- #### Joural : Pattern Recognition (Under Review)
 
 
 ## Abstract
